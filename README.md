@@ -1,9 +1,9 @@
 # 🚀 Laboratorio Empresarial ASIR
 
-![Arquitectura General](https://github.com/crisakua/laboratorio-empresarial-asir/blob/main/screenshots/arquitectura.png?raw=true)
+![Arquitectura General](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/arquitectura.png?raw=true)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/crisakua/laboratorio-empresarial-asir)
-![GitHub repo size](https://img.shields.io/github/repo-size/crisakua/laboratorio-empresarial-asir)
+![GitHub last commit](https://img.shields.io/github/last-commit/SergioRomanGutierrez/Laboratorio-ASIR)
+![GitHub repo size](https://img.shields.io/github/repo-size/SergioRomanGutierrez/Laboratorio-ASIR)
 ![Platform](https://img.shields.io/badge/platform-virtualized%20lab-blue)
 ![Focus](https://img.shields.io/badge/focus-sysadmin%20%7C%20devops%20%7C%20security-red)
 
@@ -80,19 +80,19 @@ La solución integra virtualización, sistemas Windows y Linux, bases de datos e
 ## 🖥️ Capturas del proyecto
 
 ### 🧩 Plataforma Proxmox
-![Proxmox](https://github.com/crisakua/laboratorio-empresarial-asir/blob/main/screenshots/proxmox.png?raw=true)
+![Proxmox](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/proxmox.png?raw=true)
 
 ### 📊 Monitorización (Grafana)
-![Grafana](https://github.com/crisakua/laboratorio-empresarial-asir/blob/main/screenshots/grafana.png?raw=true)
+![Grafana](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/grafana.png?raw=true)
 
 ### 🗄️ Oracle Database
-![Oracle](https://github.com/crisakua/laboratorio-empresarial-asir/blob/main/screenshots/oracle.png?raw=true)
+![Oracle](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/oracle.png?raw=true)
 
 ### 📑 Excel + PostgreSQL
-![Excel](https://github.com/crisakua/laboratorio-empresarial-asir/blob/main/screenshots/excel.jpg?raw=true)
+![Excel](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/excel.jpg?raw=true)
 
 ### 🌐 Landing Page
-![Landing](https://github.com/crisakua/laboratorio-empresarial-asir/blob/main/screenshots/landing.png?raw=true)
+![Landing](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/landing.png?raw=true)
 
 ---
 
